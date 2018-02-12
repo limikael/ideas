@@ -23,6 +23,7 @@ using the above solution it might be possible to make the service profitable eve
 
 ## Questions
 
+- Is there a system already that does this? If so, what's the name of it?
 - The cool kids don't use Wordpress these days. They use node.js and stuff. Is it obsolete to use Wordpress for this kind of solution?
 - I have experimented a bit with docker, and I understand the basic architecture related to how it works. I don't have much practical
 experience with running docker in a production environment, however. Is the above architecture sound? Are there security implications
