@@ -13,7 +13,8 @@ be used to sole more problems as well, not just bee farming.
 
 The features will be:
   - The "thing" can connect to the internet.
-  - We need to create a UI inside it to manage the connection. Chance to test.
+  - We need to create a UI inside it to manage the connection. This is good because it gives a chance to test if we can make an
+    intuitive flow for this. It can then be reused in other IoT ideas.
 
 At first I though that this would be too "small" to be interesting. However, It's not so small actually, and there are many
 features that can be immagined if we can get the scale to connect to the Internet in a simple way, and if it is simple and 
