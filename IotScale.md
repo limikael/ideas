@@ -22,3 +22,10 @@ well documented how to collect the data and feed it to other systems.
 Accompanied by a Wordpress plugin so data can be collected. This is also a generic thing.
 
 Using the scale and wordpress plugin (generic) we can build a website to manage bee hives (specific).
+
+## Details
+
+The thing should probably not look like a bathroom scale. Think instead of a little box containing battery and electronics.
+From the box there is a cable with a preassure sensor on it. Maybe several cables with several preassure sensors, 
+so one sensor can be placed in each corner. The exact number of preassure sensors that will hit the sweetspot between 
+price/usability is not known, however. This needs to be investigated and determined experimentally.
