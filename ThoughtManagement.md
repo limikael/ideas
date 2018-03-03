@@ -11,6 +11,11 @@ would be great if I could manage my thoughts and ideas as voice memos.
 A platform (e.g. a web site and an app) to record and share voice memos. This would have the same functions as soundcloud,
 but with some additions.
 
+## Tagging and sharing
+
+An important function is tagging. Tagging would work in a similar way as tagging of facebook. Once a voice recording is
+uploaded, it would be possible to tag people in it. This can be used if a thought is about someone else, and if it 
+
 ## Services
 
 Once the thoughts are recorded, the platform can act as a marketplace for related services. For example, such services could be:
