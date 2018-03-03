@@ -14,7 +14,9 @@ but with some additions.
 ## Tagging and sharing
 
 An important function is tagging. Tagging would work in a similar way as tagging of facebook. Once a voice recording is
-uploaded, it would be possible to tag people in it. This can be used if a thought is about someone else, and if it 
+uploaded, it would be possible to tag people in it. This can be used if a thought is about someone else, and to give that
+someone a chance to respond. This can be used for consumers to share their thoughts about a business, and to give the 
+business a chance to comment on the thought.
 
 ## Services
 
