@@ -34,4 +34,4 @@ https://soundcloud.com/li-mikael/sets/thought-management
 
 ## References
 
-- The Science Of Thinking: https://www.youtube.com/watch?v=UBVV8pch1dM
+- The Science Of Thinking: https://www.youtube.com/watch?v=UBVV8pch1dM (how is this related to the idea as a whole? not sure, but I have a sort of vague hunch that it is)
