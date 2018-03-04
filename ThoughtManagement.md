@@ -31,3 +31,7 @@ Once the thoughts are recorded, the platform can act as a marketplace for relate
 There are some example thougts about this platform itself here:
 
 https://soundcloud.com/li-mikael/sets/thought-management
+
+## References
+
+- The Science Of Thinking: https://www.youtube.com/watch?v=UBVV8pch1dM
