@@ -1,5 +1,7 @@
 # Post Scarcity Robotics
 
+This is the continuation of this project: https://www.indiegogo.com/projects/post-scarcity-robotics-food
+
 ## Problem
 
 We need to wake up at a specific time every morning and do something we don't enjoy, just to be able to eat. (employment)
