@@ -33,7 +33,7 @@ There are some example thougts about this platform itself here:
 https://soundcloud.com/li-mikael/sets/thought-management
 
 There is a total of 3 audio files there (15 minutes). If your time is limited and you just want to listen to one of them,
-please start by listening to [this](https://soundcloud.com/li-mikael/thought-management-use-case?in=li-mikael/sets/thought-management) one (6 minutes).
+please start by listening to [this](https://soundcloud.com/li-mikael/thought-management-use-case?in=li-mikael/sets/thought-management) one (6 minutes). There are also transcriptions [here](https://github.com/limikael/ideas/blob/master/data/ThoughtManagementTranscriptions.md).
 
 ## Experiment
 
