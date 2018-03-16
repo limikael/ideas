@@ -1,0 +1,46 @@
+# Thought Management Transcriptions
+
+These are the transcriptions of the 3 audio files used for the experiment.
+
+## Intro
+
+Why I was so excited?  Because I have realised there are things that I am going to change about my life and this is part of that, to record this, but now I need to—
+
+Sidetalk
+Speaker 2:  Jumpy today...) What? (Speaker 2:  You are bit jumpy...) But that is because I am excited.  Okay.
+
+Well, that was not part of the thoughts.  The part of the thoughts was the idea of management system.  Cecilia had a really good idea about the system just now.  Let me see if I think about it... I can remember her contribution, but I first need to get down the whole idea.  So, the idea really is a platform for sharing voice memos because I think I have realised that for myself it is a good thing to do to again the thoughts, get the thoughts out of my head.  That is really the thing.  I need a tool to get the thoughts out of my head.
+
+Oh, but it is interesting that once I have gotten the thoughts out of my head what can I do with them?  You know, in order to get the thoughts out of my head, what do I—?  How do I—?  How could I manage that?  And yeah, I would like to be, have a place where I can just put them so that I could—like a such a place already exist.  It could be SoundCloud of course, but this is not really it.  This is, uhm, uhm...  Because maybe I have thoughts that I... want... to share but I do not know if I should share them because it might offend someone then I can use this platform to ask for that person’s permission.  I can send a notification. 
+
+Ping! Make a thought about you.  What do you want to do?  A). Listen to his thoughts about you.  B). Ignored it.  or C...?  Yeah those be the...  Or-or yeah.  Or C). Make it public immediately.  Alright, I mean I would—there would be different like notification make it or an event but then you know it would be in a—oh fuck!  But now I am getting ahead on myself.
+
+A platform where you can manage your ideas just manage your thoughts really.  Some thoughts are the ideas.  What’s the difference between a thought and an idea?  I don’t know that.  It is probably some philosopher who knows that or have thought about that.  Where is his thoughts on that I would like to know, you know, if there are such... such functions.
+
+So once I put my thoughts up there I can then... Yeah, they can be made public.  Anyone can take any of my thoughts and request for them to be removed and then I will remove them.  Then I will also thought ability like, so, if I think about something that if someone might find offensive I can say that: “Okay, here is the thought that I had about you,” and that person can decide if it’s okay to share it or not.  Uhm, oh yeah, that can be a common function on my thoughts but I can choose it if my thoughts should be commented or commented at the time that I am writing in... anyway.
+
+In the summer months Southland Way is probably really good because it has time marks in it.  I mean it would be slightly embarrassing for me if there is already a thought like this or if this platform already exists.  So, that is like a little bit of letting go of my ego and the rest of it whether this kind of platform.  I am going to Google thought management, idea management.  It’s like things like that.  Of course just this one.  Maybe there is already a platform.  If there is already a platform, I will—well, I promised myself this.  I promise myself.  If there is already such a platform or something that could be such a platform, I will take this very voice memo and I will share it on the platform.  Uh-hmm.  Yes... 
+
+Oh well, that’s the thought.  Maybe I will follow up with all the other thoughts later.  I mean it does not have to be—I-I don’t—I need to...  Yeah, I will tell myself that.  I do not need to achieve that, that this thought here is interesting.  The only thing I need to achieve is that it’s out of my head but actually I do not need to achieve that everything is out of my head at once.  Maybe that will be... Maybe I will do more voicemails later and that is also okay.  I have told myself that.
+
+## Services
+
+I will record my other thoughts too so that yeah, it is based on like addition what Cecelia thought about as well that it can be—this is a platform actually for services as well.  Yeah, and once there will be a service would be transcription.  It would be to transcribe.  Yeah, but I was thinking about the service that I really want.  That is because I have a huge ego and I admit it and—well, actually a better way in... and maybe saying there is nothing wrong having a huge ego because what I want, I want my thoughts to be edited and commented on, like, I want someone to take my thoughts and make a radio show out of them and I would really like to buy that service from someone.  So, that is what I decide for service that can be sold on this platform.  That is the thought.  Yeah.  Thank you, universe, for giving me the ability to express my thoughts.
+
+## Use Case - Personal Secretary
+
+Here is a specific use case for the thought management platform just to elaborate a little bit on how it could be used.
+
+So, I now thought about it.  It could be seen as a secretary.  It can fill the role wherever that a secretary fails.  Because I have come to realise sort of why is so very useful to have a secretary that can sort of write things down that you think can organise the thoughts, type them out to make them look neat and such things.  At least what I think I know about what this secretary does, they do things like that.  Yeah, that’s the best with our aid.
+
+It is also very easy to see why.  If you are a CEO of a company, yeah, you have a secretary and I understand why that is very, very, very useful.  If we are going to manage ourselves and be our own CEOs in our own life and in our own businesses, we need someone or something that fills that role of a secretary to keep our things organised and to be able to type things out and make the thoughts presentable.  So what can we do?  We can do hire ourselves a secretary, but that does not work in today’s society; if we all are going to be our own CEO’s, yeah, then there are actually no one who can fill that role – have a secretary – because everyone is a CEO.  Also, I mean it is going to be too expensive to hire ourselves a secretary.  A good one because probably—or obviously there will be huge difference if you have a secretary whereas you have bad one.  So, it is a way of making it digital and on the web and all that.  It’s like this; I guess it’s something that fills the role of a secretary but in this current era that we are living.  So, that it how I thought it could be used.
+
+Maybe I want to elaborate a little bit more.  That was just something that I thought like how this kind of process could actually work and that is, if I have an idea that could be turned into a business.  It is going to be like that, I or at least my brain works that way.  My brain is going to think about this idea.  Not all the time, but will think about that idea very much, say, for a month.  There will be different aspects of it popping up in my head and I would just entertain thoughts about my business idea.
+
+Now I want to turn that business idea, all those thoughts into for example a business plan.  That is something that is for me very, very challenging.  I would be happy to pay for a service where that can be done, but that kind of service cannot really be bought now.  What I could do is I could hire some business consultant.  Let’s say I have an idea about this roughly – Can you help me to write a business plan?’ – and then to get across my understanding to that person about what the idea is about, that is going to be a long process.  I do not know.  We will have to sit down and talk a lot.  There is a chance that I will have forgotten something, and then to hire that business consultant is probably going to be expensive and there is that, really no upper limit to how much that can cost, but it would probably start at thousands of dollars at least to get something like that done.
+
+But if I have 30 audio files, one per day for the last month where I have thought about this thing then to take that—yeah, first I can have all the thoughts transcribed then I can edit it myself, and I can make it presentable as a business plan.  But I can actually also pay someone and then I don’t have to pay as much because it will not be as difficult with a person, right?  I could pay someone to actually go through all the thoughts and also have the transcription but they will also have the thoughts, the audio recordings there, where something more emotional comes across, then I think it will be possible to get that kind of service to type out all the thoughts and make it presentable in a business plan.
+
+That kind of a service, it will be more something like that you can buy on fibre or something like that.  So then we take the problem or the challenge of typing out thoughts in to a business plan, we can remove it from like the realm of the business consultants and put it out there so that it can be done in the fibre realm instead.
+
+And yeah, and that would be awesome I think.  I do not see who would not agree with that.  Yup.  So, that’s what I thought.
