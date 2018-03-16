@@ -43,7 +43,7 @@ around like a mad professor and record thoughts, and then I can push a button an
 the idea as if it is something real. The experiment will be done like this:
 
   1. Record random thoughts about this platform itself - ___Done___
-  2. Have them transcribed.
+  2. Have them transcribed. - ___Done___ They are [here](https://github.com/limikael/ideas/blob/master/data/ThoughtManagementTranscriptions.md).
   3. Put one or several jobs on fiverr. The jobs can be:
     - Turn the thoughts into a powerpoint with 7 slides.
     - Turn the thoughts into a leaflet.
