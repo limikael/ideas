@@ -15,4 +15,6 @@ Bali. Our faithful robot has no scary artificial intelligence. It is only our hu
 feeding the information colected by our travellers, through an algorithm, using carefully selected True Type Fonts, into
 g-code to be fed into our custum built lazer engraver.
 
+Our lady will then take these sacred pages and bind them into a books. Each book handmade. Each book unique. For you and for everyone and everything you love.
+
 This is how we will show to the world what our most beautiful lady can do.
