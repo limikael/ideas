@@ -5,7 +5,7 @@ The books have a beautiful aura of spirituality, they are handmade of rice paper
 They are calling out to be filled with spirituallity, because they are otherwise empty.
 
 Let's connect these books through space and time, and fill them with the content they deserve. Let's connect the past,
-through the present and through the future.
+through the present, to the future.
 
 We are travellers having travelled the world and met amazing people with amazing thoughts, dreams, feelings and ideas.
 We wish to fill the books from the lady with this amazing content. For this we will use the latest technology. We
