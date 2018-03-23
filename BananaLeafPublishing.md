@@ -2,7 +2,7 @@
 
 In a cave, in a secret location in Bali, lives a mysterious Woman. She is the maker of books.
 The books have a beautiful aura of spirituality, they are handmade of rice paper, and beutifully decorated.
-They are calling out to be filled with spirituallity, because they are otherwise empty.
+They are calling out to be filled with spiritual content, because they are otherwise empty.
 
 Let's connect these books through space and time, and fill them with the content they deserve. Let's connect the past,
 through the present, to the future.
