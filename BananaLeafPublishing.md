@@ -9,7 +9,7 @@ through the present, to the future.
 
 We are travellers having travelled the world and met amazing people with amazing thoughts, dreams, feelings and ideas.
 We wish to fill the books from the lady with this amazing content. For this we will use the latest technology. We
-will automate the process whereby someone orders a book online, and receives a book to their home. The RESTful api calls will then propagate through
+will automate the process whereby someone orders a book online, and receives a book to their home. The RESTful api calls will  propagate through
 humanities greatest invention, The Internet, down to a little 3D printed automation robot sitting next to a rice field in
 Bali. Our faithful robot has no scary artificial intelligence. It is only our humble servant. It will serve us, by
 feeding the information colected by our travellers, through an algorithm, using carefully selected True Type Fonts, into
