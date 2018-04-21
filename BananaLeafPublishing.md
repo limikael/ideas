@@ -20,3 +20,7 @@ g-code to be fed into our custum built lazer engraver.
 Our lady will then take these sacred pages and bind them into a books. Each book handmade. Each book unique. For you and for everyone and everything you love.
 
 This is how we will show to the world what our most beautiful lady can do.
+
+## Stakeholders
+
+- ___The Lady___<br>I don't know to much concrete information about this lady. I know that she sells the books on Hanoman Street. She doesn't have a shop. The story about the cave is hearsay based on something I heard from a taxt driver. It would be beneficial to investigate further. I think the right time to connect with her again is when I have a prototype for a printed book.
