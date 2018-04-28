@@ -31,3 +31,4 @@ This is how we will show to the world what our most beautiful lady can do.
 - ___The End Customer___<br>The end customer is a parson who likes to read. Who likes art and beautiful things. Who likes to feel (or be seen) as "artsy". Perhaps someone who likes to show their home to his/her firends and who likes their friend to notice unique and beautiful books in the bookshelf?
 
 ## The Bigger Picture
+Generalizing this idea, it can be thought of as taking traditional handicraft, adding value using maker style automation and technology, and selling products on the Internet. If this model can be proven to work, it can be applied to other types of handicraft from around the world. It is a way of bypassing the "heavy industry" era that the West has seen during the 1800s and 1900s, and directly connecting traditional handicraft to the Internet era.
