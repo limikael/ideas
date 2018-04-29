@@ -23,4 +23,4 @@ should be implemented and in what way.
 The minimal viable makerspace, so to speak, would be comprised of:
 
 - Sound proof room.
-- 3D printer. I would like to buy a (Prusa I3 Mk3)[https://www.prusa3d.com/original-prusa-i3-mk3/] preassembeled. $999
+- 3D printer. I would like to buy a [Prusa I3 Mk3](https://www.prusa3d.com/original-prusa-i3-mk3/) preassembeled. $999
