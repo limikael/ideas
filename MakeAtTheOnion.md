@@ -30,7 +30,7 @@ This is because I would get a lot of value from the Onion allowing me put a 3D p
 This is the win-win, since the Onion wants a makerspace, but all stress is removed since this isn't a business 
 venture that must make profit in order to succeed.
 
-# MVP
+## MVP
 
 ___The minimal viable makerspace, so to speak, would be comprised of___
 
@@ -58,3 +58,7 @@ ___Initial material to stock___
 - Microcontrollers (NodeMCU & Arduino)
 - Stepper motors and DC motors
 - Some IC circuits (stepper motor drivers, multiplexers, etc)
+
+## Questions
+
+- Where can I find building material to build a sound proof room?
