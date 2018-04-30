@@ -1,8 +1,9 @@
 # Make At The Onion
 
 The inital idea came to me because I want a space so that I can make stuff, and I really want to make stuff.
-I don't like the commute down to Denpasar and it is stressful and the environment is not as inspiring as in Ubud. If I can
-make things in Ubud, and especially if I can make stuff at The Onion I would love it. 
+There are other makerspaces in Bali, but I don't like the commute down to Denpasar and it is stressful and the 
+environment is not as inspiring as in Ubud.
+If I can make things in Ubud, and especially if I can make stuff at The Onion I would love it. 
 
 Now, I don't want to intrude on The Onion and treat The Onion as my personal space. But since there are already thoughts
 along these lines at The Onion, this could be a win win situation. Given my personal motivation for why I want this,
