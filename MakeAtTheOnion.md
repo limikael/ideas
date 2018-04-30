@@ -6,11 +6,11 @@ environment is not as inspiring as in Ubud.
 If I can make things in Ubud, and especially if I can make stuff at The Onion, I would love it. 
 
 Now, I don't want to intrude on The Onion and treat The Onion as my personal space. But since there are already thoughts
-along these lines at The Onion, this could be a win win situation. Given my personal motivation for why I want this,
-a way to do it could be just to grow it slow and organically. At the moment, the thing I would want in my life,
+along these lines at The Onion, this could be a win-win situation. Given my personal motivation for why I want this,
+we could grow it slow and organically. At the moment, the thing I would want in my life,
 is access to a 3D printer and a place to hang some tools, and a workbench where I can work.
 
-So the idea is then to take the space below the coworking space and designate an area and build a sound proof room there.
+The idea is then to take the space below the coworking space and designate an area and build a sound proof room there.
 Then I just put the things there that I need to experiment with my robotic stuff. I have a list in my
 head of roughly what things those would be. That will be useful for me, but it can also be
 useful for the community in the long run. If I just start to make stuff there, we can use attraction rather than
