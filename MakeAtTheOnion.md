@@ -15,10 +15,10 @@ Then I just put the things there that I need to experiment with my robotic stuff
 head of roughly what things those would be. That will be useful for me, but it can also be
 useful for the community in the long run. If I just start to make stuff there, we can use attraction rather than
 promotion for the makerspace. I will build things, people will see things being built there, they will come and ask 
-"what is this? who are you? what are you making?".Even if I'm not there, people will see that there is making going 
-on and they might ask such questions to someone else.
+"what is this? who are you? what are you making?". I'm not there, people will see that there is making going 
+on and they will ask such questions to someone else.
 
-This also removes the stress of how to promote it. If we see it as a business venture from the start, then comes the
+This removes the stress of how to promote it. If we see it as a business venture from the start, then comes the
 question of how do we promote it, how do we make it profitable or financially sustainable. 
 
 Instead the idea is to start very slow and organic, just put some tools there and add tools as I need them
