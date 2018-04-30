@@ -38,6 +38,7 @@ ___The minimal viable makerspace, so to speak, would be comprised of___
 - 3D printer. I would like to buy a [Prusa I3 Mk3](https://www.prusa3d.com/original-prusa-i3-mk3/) preassembeled. $999
 - Power drill with stand. I want to be able to drill holes at exact positions.
 - A saw. Maybe a powersaw.
+- Soldering iron
 - A tool board on a wall, with the following tools:
   - Screwdrivers
   - Pliers
@@ -53,3 +54,7 @@ ___Initial material to stock___
 - Ballbearings
 - Screws and nuts
 - 3D printing fillament
+- Breadboards
+- Microcontrollers (NodeMCU & Arduino)
+- Stepper motors and DC motors
+- Some IC circuits (stepper motor drivers, multiplexers, etc)
