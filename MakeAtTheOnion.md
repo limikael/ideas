@@ -38,8 +38,12 @@ ___The minimal viable makerspace, so to speak, would be comprised of___
 - 3D printer. I would like to buy a [Prusa I3 Mk3](https://www.prusa3d.com/original-prusa-i3-mk3/) preassembeled. $999
 - Power drill with stand. I want to be able to drill holes at exact positions.
 - A saw. Maybe a powersaw.
+- A tool board on a wall, with the following tools:
+  - Screwdrivers
+  - Pliers
+  - Spanners
 
-__Things to be built and incorporated in the makerspace___
+___Things to be built and incorporated in the makerspace___
 
 - Something similar to a mitre box, but for PVC pipes. This will be used to cut PVC pipes in exact lengths and to drill holes at exact locations.
 
@@ -48,3 +52,4 @@ ___Initial material to stock___
 - PVC pipes
 - Ballbearings
 - Screws and nuts
+- 3D printing fillament
