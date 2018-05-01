@@ -13,7 +13,7 @@ There is currently a shortage of bamboo on the market. I heard this when visitin
 
 ## Solution
 Create an automated farm for growing bamboo to be used as construction material. I have been looking for a concrete problem
-to solve with [https://github.com/limikael/ideas/blob/master/PostScarcityRobotics.md](The Mavis Rail Robot). I have been
+to solve with [The Mavis Rail Robot](https://github.com/limikael/ideas/blob/master/PostScarcityRobotics.md). I have been
 thinking in terms of growing food, but why not construction material? One of the reasons why I think this to be
 a good idea is that I immagine that consistency is an important propetry for bamboo grown as construction material.
 
