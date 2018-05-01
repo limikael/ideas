@@ -16,3 +16,7 @@ Create an automated farm for growing bamboo to be used as construction material.
 to solve with [https://github.com/limikael/ideas/blob/master/PostScarcityRobotics.md](The Mavis Rail Robot). I have been
 thinking in terms of growing food, but why not construction material? One of the reasons why I think this to be
 a good idea is that I immagine that consistency is an important propetry for bamboo grown as construction material.
+
+## Thinking Further
+It would be very awesome to automate the production of bamboo, then at the same side automate the production of 
+sections of prefab [Joglo](https://en.wikipedia.org/wiki/Joglo) houses.
