@@ -3,7 +3,7 @@ A collection of ideas.
 
 Trying to decide what to do with my life. Collecting the ideas here to have something to base the decision on.
 
-Who am I and what is my background? Feel free to take a look at my [CV](https://docs.google.com/document/d/1LH4D9xRFnPktjyZraACYNeUw9q7Ja0BXg5E8PX0Whus/edit?usp=sharing)!
+Who am I and what is my background? Please see my [CV](https://docs.google.com/document/d/1LH4D9xRFnPktjyZraACYNeUw9q7Ja0BXg5E8PX0Whus/edit?usp=sharing)!
 
 The ideas are in various stages of development. The top 3 that currently have the highest chance of seeing any actual work
 being done on them are:
