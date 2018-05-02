@@ -59,6 +59,16 @@ ___Initial material to stock___
 - Stepper motors and DC motors
 - Some IC circuits (stepper motor drivers, multiplexers, etc)
 
+## What can we make?
+
+Here are some examples from this repository of things and business ideas that can be realized once there is makerspace:
+
+- [Decentralized Water Supply](https://github.com/limikael/ideas/blob/master/DecentralizedWater.md)
+- [Camera Stand](https://github.com/limikael/ideas/blob/master/CameraStand.md)
+- [Banana Leaf Publishing](https://github.com/limikael/ideas/blob/master/BananaLeafPublishing.md)
+- [Flute Lids](https://github.com/limikael/ideas/blob/master/FluteLids.md)
+- [Post Scarcity Robotics](https://github.com/limikael/ideas/blob/master/PostScarcityRobotics.md)
+
 ## Questions
 
 - Where can I find building material to build a sound proof room?
