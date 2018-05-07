@@ -1,5 +1,7 @@
 # Make At The Onion
 
+This idea is about creating a makerspace at [The Onion Collective](https://theonionco.com/).
+
 The inital idea came to me because I want a space so that I can make stuff, and I really want to make stuff.
 There are other makerspaces in Bali, but I don't like the commute down to Denpasar and it is stressful and the 
 environment is not as inspiring as in Ubud.
@@ -29,6 +31,19 @@ This way I can also see it as a "cost" rather than an "investment", and I would 
 This is because I would get a lot of value from the Onion allowing me put a 3D printer and tools in this space.
 This is the win-win, since the Onion wants a makerspace, but all stress is removed since this isn't a business 
 venture that must make profit in order to succeed.
+
+## Business Model
+
+The are different business models possible for running a makerspace. I would like to see the makerspace as a marketplace.
+This means that we will not charge membership fees, but rather provide a place where people can buy and sell goods and
+services. For example, I will buy a 3D printer, and let people use it and pay per 100g of 3D printed output. If someone
+finds my price too expensive, they can buy a 3D printer themselves and compete with me. I will also sell material and
+components, such as Arduino and NodeMCU microcontrollers, ball bearings and PVC pipes. If someone wants to build things
+where the material is not available, for example drone propellers, they can buy a batch of those and then sell them
+in the makerspace and make a small of large profit.
+
+It would be awesome in the future to actually build a venting machine for components, so people can buy and sell their
+components there.
 
 ## MVP
 
