@@ -1,6 +1,6 @@
 # Banana Leaf Publishing
 
-*By Appointment To The Royal Court Of Ubud*
+*By Appointment To The Royal Palace Of Ubud*
 
 ![Books](https://raw.githubusercontent.com/limikael/ideas/master/data/books.jpg)
 
