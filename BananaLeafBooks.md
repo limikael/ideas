@@ -1,4 +1,4 @@
-# Banana Leaf Publishing
+# Banana Leaf Books
 
 *By Appointment To The Royal Palace Of Ubud*
 
