@@ -4,6 +4,10 @@ This idea is about creating a makerspace at [The Onion Collective](https://theon
 in place whereby Mark Kuan, the owner and founder of The Onion Collective, allows me to implement the idea described
 below.
 
+It is almost in implementation mode now... Wohoo!!! I'm using [this document](https://docs.google.com/document/d/1gwpSsyP4MWUnOVRnjWSSNKr4r7HHFM6p5PNptvzvyXk/edit?usp=sharing).
+
+## Background
+
 The inital idea came to me because I want a space so that I can make stuff, and I really want to make stuff.
 There are other makerspaces in Bali, but I don't like the commute down to Denpasar and it is stressful and the 
 environment is not as inspiring as in Ubud.
