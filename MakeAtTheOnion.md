@@ -92,7 +92,6 @@ Here are some examples from this repository of things and business ideas that ca
 
 ## Questions
 
-- Where can I find building material to build a sound proof room?
 - Where can I find cheap (for example used and disposed) furniture?
 - Where can I find power tools?
 - Where can I find electronic components?
