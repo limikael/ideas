@@ -25,10 +25,12 @@ as [The Venus Project](https://en.wikipedia.org/wiki/Jacque_Fresco#The_Venus_Pro
 highlighted in relation to the Zeitgeist Movement. The Venus Project proposes a big centralized research project, 
 whereas I would like to take small incremental steps. My approach takes into account the model that has proven very 
 useful in the creation of [open source software](https://en.wikipedia.org/wiki/Open-source_software). Open source
-software is not owned or controlled by any large corporation or organisation, but can be said to be owned collectively
+software is not owned or controlled by any corporation or organisation, but can be said to be owned collectively
 by all of humanity. It exists all around us, some examples are The Internet, the operating systems for Android and iPhone
-smartphones, Wordpress, Wikipedia, and many more. I think that many people use this software every day, without 
-reflecting upon where it comes from and how it was created, perhaps including the creator of The Venus Project?
+smartphones, Wordpress, Wikipedia, and many more. I believe that many people use this software every day, without 
+reflecting upon where it comes, how it was created, or how important its existance is in order to ensure decentralization
+and in the long run sustainibility.
+Perhaps including the creator of The Venus Project?
 
 In the end I dream about a self replicating fully automated factory, that can automatically produce itself, 
 as well as all the material things we need. This concept has been called a 
