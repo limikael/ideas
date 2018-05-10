@@ -89,6 +89,7 @@ Here are some examples from this repository of things and business ideas that ca
 - [Banana Leaf Publishing](https://github.com/limikael/ideas/blob/master/BananaLeafPublishing.md)
 - [Flute Lids](https://github.com/limikael/ideas/blob/master/FluteLids.md)
 - [Post Scarcity Robotics](https://github.com/limikael/ideas/blob/master/PostScarcityRobotics.md)
+- [AytobeeScooter](https://github.com/limikael/ideas/blob/master/AytobeeScooter.md)
 
 ## Questions
 
