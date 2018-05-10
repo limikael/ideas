@@ -1,6 +1,6 @@
 # ideas
 
-![Micke](https://avatars1.githubusercontent.com/u/902911?s=460&v=4)
+<img align="right" width="200" src="https://avatars1.githubusercontent.com/u/902911?s=460&v=4" />
 
 My name is Micke and I currently live in Ubud, Bali, where I work on realizing my dreams.
 I have a background as software developer, teacher and maker.
