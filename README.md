@@ -6,7 +6,7 @@ For more information about my backgroud, please see my [CV](https://docs.google.
 The ideas are in various stages of development. The top 3 that I currently spend most time on to make the vision concrete 
 are these:
 
-- [Banana Leaf Publishing](https://github.com/limikael/ideas/blob/master/BananaLeafPublishing.md)
+- [Banana Leaf Books](https://github.com/limikael/ideas/blob/master/BananaLeafBooks.md)
 - [Make At The Onion](https://github.com/limikael/ideas/blob/master/MakeAtTheOnion.md)
 - [Post Scarcity Robotics](https://github.com/limikael/ideas/blob/master/PostScarcityRobotics.md)
 
