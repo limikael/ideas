@@ -29,8 +29,7 @@ software is not owned or controlled by any corporation or organisation, but can 
 by all of humanity. It exists all around us, some examples are The Internet, the operating systems for Android and iPhone
 smartphones, Wordpress, Wikipedia, and many more. I believe that many people use this software every day, without 
 reflecting upon where it comes, how it was created, or how important its existance is in order to ensure decentralization
-and in the long run sustainibility.
-Perhaps including the creator of The Venus Project?
+and sustainibility. Perhaps including the creator of The Venus Project?
 
 In the end I dream about a self replicating fully automated factory, that can automatically produce itself, 
 as well as all the material things we need. This concept has been called a 
