@@ -46,10 +46,11 @@ services. For example, I will buy a 3D printer, and let people use it and pay pe
 finds my price too expensive, they can buy a 3D printer themselves and compete with me. I will also sell material and
 components, such as Arduino and NodeMCU microcontrollers, ball bearings and PVC pipes. If someone wants to build things
 where the material is not available, for example drone propellers, they can buy a batch of those and then sell them
-in the makerspace and make a small of large profit.
+in the makerspace and make a small or large profit.
 
 It would be awesome in the future to actually build a venting machine for components, so people can buy and sell their
-components there.
+components there. I write "vending machine". The thing I envision is probably more like a robotic vertical storage solution,
+with a gui on a touch screen that makes the experience to the user resemble that of a vending machine.
 
 ## MVP
 
