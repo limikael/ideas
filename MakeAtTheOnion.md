@@ -1,8 +1,10 @@
 # Make At The Onion
 
 This idea is about creating a makerspace at [The Onion Collective](https://theonionco.com/). There is an agreement
-in place whereby Mark Kuan, the owner and founder of The Onion Collective, allows me to implement the idea described
+in place whereby Mark Kuan, the owner and founder of The Onion Collective, that enables me to implement the idea described
 below.
+
+<img align="right" height="250" src="https://avatars1.githubusercontent.com/u/902911?s=460&v=4" />
 
 This idea is currently transitioniong into an implementation mode. In addition to this text, I'm also using a [project plan](https://docs.google.com/document/d/1gwpSsyP4MWUnOVRnjWSSNKr4r7HHFM6p5PNptvzvyXk/edit?usp=sharing).
 
