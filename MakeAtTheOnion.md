@@ -6,7 +6,7 @@ below.
 
 This idea is currently transitioniong into an implementation mode. In addition to this text, I'm also using a [project plan](https://docs.google.com/document/d/1gwpSsyP4MWUnOVRnjWSSNKr4r7HHFM6p5PNptvzvyXk/edit?usp=sharing).
 
-<img height="320" src="https://raw.githubusercontent.com/limikael/ideas/master/data/Makerspace.jpg" />
+<img src="https://raw.githubusercontent.com/limikael/ideas/master/data/Makerspace.jpg" />
 
 ## Background
 
