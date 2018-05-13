@@ -4,7 +4,7 @@ This idea is about creating a makerspace at [The Onion Collective](https://theon
 in place whereby Mark Kuan, the owner and founder of The Onion Collective, that enables me to implement the idea described
 below.
 
-<img align="right" height="250" src="https://raw.githubusercontent.com/limikael/ideas/master/data/Makerspace.jpg" />
+<img height="300" src="https://raw.githubusercontent.com/limikael/ideas/master/data/Makerspace.jpg" />
 
 This idea is currently transitioniong into an implementation mode. In addition to this text, I'm also using a [project plan](https://docs.google.com/document/d/1gwpSsyP4MWUnOVRnjWSSNKr4r7HHFM6p5PNptvzvyXk/edit?usp=sharing).
 
