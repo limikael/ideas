@@ -21,7 +21,7 @@ and it is related to [Post Scarcity Economy](https://en.wikipedia.org/wiki/Post-
 [Zeitgeist Movement](https://en.wikipedia.org/wiki/Zeitgeist_(film_series)). In the Wikipedia article about the 
 Zeitgeist Movement it is talked about "speculative technology" and "fully automated production", so I guess 
 I can say that my dream is to be an integral part of making this technology real. I do believe that I have gathered the
-skills during my career to do this, and I also think that my approach to do it is right. My approach here means to
+skills during my career to do this, my approach to do it is right, and now is the time. My approach here means to
 take small steps, and make the steps useful all the way. It is an 
 [agile](https://en.wikipedia.org/wiki/Agile_software_development) approach. This is slightly different than projects such 
 as [The Venus Project](https://en.wikipedia.org/wiki/Jacque_Fresco#The_Venus_Project_and_later_career) which is often
