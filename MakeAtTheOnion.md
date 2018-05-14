@@ -42,7 +42,7 @@ venture that must make profit in order to succeed.
 
 ## Business Model
 
-The are different business models possible for running a makerspace. I would like to see the makerspace as a marketplace.
+There are different business models possible for running a makerspace. I would like to see the makerspace as a marketplace.
 This means that we will not charge membership fees, but rather provide a place where people can buy and sell goods and
 services. For example, I will buy a 3D printer, and let people use it and pay per 100g of 3D printed output. If someone
 finds my price too expensive, they can buy a 3D printer themselves and compete with me. I will also sell material and
@@ -58,10 +58,9 @@ with a gui on a touch screen that makes the experience to the user resemble that
 
 ___The minimal viable makerspace, so to speak, would be comprised of___
 
-- Sound proof room. Built in sections so it can be expanded, disassembeled and moved, if the makerspace grows too big and needs to move. 
-- 3D printer. I would like to buy a [Prusa I3 Mk3](https://www.prusa3d.com/original-prusa-i3-mk3/) preassembeled. $999
+- 3D printer. A [Prusa I3 Mk3](https://www.prusa3d.com/original-prusa-i3-mk3/) has been ordered and is estimated to be shipped on June 18th. I guess it will arrive around 1st of July.
 - Power drill with stand. I want to be able to drill holes at exact positions.
-- A saw. Maybe a powersaw.
+- A saw.
 - Soldering iron
 - A tool board on a wall, with the following tools:
   - Screwdrivers
@@ -96,6 +95,7 @@ Here are some examples from this repository of things and business ideas that ca
 
 ## Questions
 
-- Where can I find cheap (for example used and disposed) furniture?
 - Where can I find power tools?
 - Where can I find electronic components?
+- Where can I find ball bearings?
+- Where can I find PVC pipes?
