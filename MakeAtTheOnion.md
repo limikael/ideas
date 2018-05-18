@@ -54,6 +54,8 @@ It would be awesome in the future to actually build a venting machine for compon
 components there. I write "vending machine". The thing I envision is probably more like a robotic vertical storage solution,
 with a gui on a touch screen that makes the experience to the user resemble that of a vending machine.
 
+For tools, this model can be implemented using the [SmartSocket](https://github.com/limikael/ideas/blob/master/SmartSocket.md) idea in this repository.
+
 ## MVP
 
 ___The minimal viable makerspace, so to speak, would be comprised of___
