@@ -43,6 +43,17 @@ parts of itself. I would like to create a machine to actually automatically asse
 What's more... It isn't that crazy, and actually just a small evolutionary step based on what already exists, 
 and I think my little Mavis robot with a universal tool mount on it can actually do it.
 
+## Our responsibility
+It is enevitable that the future holds more automation in the production of the material things we need. 
+Millions and billions of dollars are being invested in research projects, by corporations such as Monsanto, 
+Boston Dynamics, Tesla, Google and many more. There is nothing evil about these corporatiopns, or their founders, per se.
+But the fact that they are corporations and act within the capitalist system, means that they are inheritly driven by 
+profit and greed. If we stand by and watch and just consume the products produced by these corporations, 
+the greed will ultimately enslave us. If we want freedom, we need decentralisation, and we need to create and spread
+the knowledge of how this automation technology can be  built and used by everyone. We need to be able to produce it 
+ourselves, and use it without signing license agreements or other
+contracts that puts us in a position where we are dependent on these corporations. 
+
 ## Intellectual Property
 I would love your feedback and contributions! I do not claim any kind of ownership of anything here, 
 feel free to steal any idea you want and make it yours.
