@@ -10,3 +10,7 @@ References:
 
 - https://howtomechatronics.com/tutorials/arduino/rfid-works-make-arduino-based-rfid-door-lock/
 - https://www.youtube.com/watch?v=CI3xxsBM9SE
+
+Parts:
+
+- https://www.tokopedia.com/hobielektronika/modul-rfid-mfrc-522-rc522-reader-kit-13-56-mhz-gratis-tags-dan-kartu
